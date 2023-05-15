@@ -1,0 +1,522 @@
+home,score,away,year
+France ,41, Mexico,1930
+Uruguay ,42, Argentina,1930
+Uruguay ,61, Yugoslavia,1930
+Argentina ,61, United States,1930
+Paraguay ,10, Belgium,1930
+United States ,30, Paraguay,1930
+Uruguay ,40, Romania,1930
+Uruguay ,10, Peru,1930
+Romania ,31, Peru,1930
+United States ,30, Belgium,1930
+Yugoslavia ,40, Bolivia,1930
+Yugoslavia ,21, Brazil,1930
+Argentina ,31, Chile,1930
+Argentina ,63, Mexico,1930
+Chile ,10, France,1930
+Chile ,30, Mexico,1930
+Argentina ,10, France,1930
+Brazil ,40, Bolivia,1930
+Italy ,11, Spain,1934
+Italy ,21, Czechoslovakia,1934
+Germany ,32, Austria,1934
+Italy ,10, Austria,1934
+Italy ,10, Spain,1934
+Czechoslovakia ,32, Switzerland,1934
+Germany ,21, Sweden,1934
+Austria ,21, Hungary,1934
+Czechoslovakia ,31, Germany,1934
+Austria ,32, France,1934
+Sweden ,32, Argentina,1934
+Czechoslovakia ,21, Romania,1934
+Italy ,71, United States,1934
+Switzerland ,32, Netherlands,1934
+Hungary ,42, Egypt,1934
+Spain ,31, Brazil,1934
+Germany ,52, Belgium,1934
+Sweden ,80, Cuba,1938
+Italy ,31, France,1938
+Brazil ,11, Czechoslovakia,1938
+Brazil ,42, Sweden,1938
+Hungary ,51, Sweden,1938
+Italy ,21, Brazil,1938
+Italy ,42, Hungary,1938
+Brazil ,21, Czechoslovakia,1938
+Cuba ,21, Romania,1938
+Hungary ,20, Switzerland,1938
+Czechoslovakia ,30, Netherlands,1938
+Brazil ,65, Poland,1938
+Italy ,21, Norway,1938
+France ,31, Belgium,1938
+Cuba ,33, Romania,1938
+Sweden ,, Austria,1938
+Hungary ,60, Dutch East Indies,1938
+Switzerland ,11, Germany,1938
+Switzerland ,42, Germany,1938
+Sweden ,22, Paraguay,1950
+Italy ,20, Paraguay,1950
+Uruguay ,80, Bolivia,1950
+Uruguay ,22, Spain,1950
+Uruguay ,21, Brazil,1950
+Brazil ,61, Spain,1950
+Uruguay ,32, Sweden,1950
+Sweden ,31, Spain,1950
+Sweden ,32, Italy,1950
+Brazil ,71, Sweden,1950
+Chile ,52, United States,1950
+Switzerland ,21, Mexico,1950
+United States ,10, England,1950
+Spain ,20, Chile,1950
+Spain ,31, United States,1950
+England ,20, Chile,1950
+Brazil ,20, Yugoslavia,1950
+Yugoslavia ,41, Mexico,1950
+Brazil ,22, Switzerland,1950
+Yugoslavia ,30, Switzerland,1950
+Brazil ,40, Mexico,1950
+Spain ,10, England,1950
+Italy ,41, Belgium,1954
+Switzerland ,41, Italy,1954
+Austria ,75, Switzerland,1954
+Uruguay ,42, England,1954
+Austria ,31, Uruguay,1954
+Hungary ,42, Brazil,1954
+West Germany ,61, Austria,1954
+Hungary ,42, Uruguay,1954
+England ,44, Belgium,1954
+West Germany ,32, Hungary,1954
+West Germany ,20, Yugoslavia,1954
+Switzerland ,21, Italy,1954
+England ,20, Switzerland,1954
+Uruguay ,70, Scotland,1954
+Austria ,50, Czechoslovakia,1954
+Brazil ,50, Mexico,1954
+Yugoslavia ,10, France,1954
+France ,32, Mexico,1954
+West Germany ,41, Turkey,1954
+Brazil ,11, Yugoslavia,1954
+Hungary ,83, West Germany,1954
+Turkey ,70, South Korea,1954
+West Germany ,72, Turkey,1954
+Uruguay ,20, Czechoslovakia,1954
+Austria ,10, Scotland,1954
+Hungary ,90, South Korea,1954
+England ,22, Austria,1958
+Wales ,21, Hungary,1958
+Brazil ,30, Austria,1958
+Soviet Union ,22, England,1958
+Brazil ,00, England,1958
+Soviet Union ,20, Austria,1958
+Soviet Union ,10, England,1958
+France ,63, West Germany,1958
+France ,40, Northern Ireland,1958
+Sweden ,20, Soviet Union,1958
+West Germany ,10, Yugoslavia,1958
+Brazil ,52, France,1958
+Sweden ,31, West Germany,1958
+Brazil ,52, Sweden,1958
+Hungary ,40, Mexico,1958
+Brazil ,10, Wales,1958
+Sweden ,00, Wales,1958
+Brazil ,20, Soviet Union,1958
+Mexico ,11, Wales,1958
+Northern Ireland ,10, Czechoslovakia,1958
+West Germany ,22, Czechoslovakia,1958
+Argentina ,31, Northern Ireland,1958
+West Germany ,22, Northern Ireland,1958
+Czechoslovakia ,61, Argentina,1958
+Northern Ireland ,21, Czechoslovakia,1958
+France ,73, Paraguay,1958
+Argentina ,13, West Germany,1958
+Sweden ,21, Hungary,1958
+Yugoslavia ,32, France,1958
+Paraguay ,32, Scotland,1958
+France ,21, Scotland,1958
+Paraguay ,33, Yugoslavia,1958
+Sweden ,30, Mexico,1958
+Hungary ,11, Wales,1958
+Yugoslavia ,11, Scotland,1958
+Argentina ,10, Bulgaria,1962
+Hungary ,21, England,1962
+England ,31, Argentina,1962
+Hungary ,61, Bulgaria,1962
+Hungary ,00, Argentina,1962
+England ,00, Bulgaria,1962
+Chile ,21, Soviet Union,1962
+Czechoslovakia ,31, Yugoslavia,1962
+Brazil ,31, England,1962
+Yugoslavia ,10, West Germany,1962
+Brazil ,42, Chile,1962
+Chile ,10, Yugoslavia,1962
+Brazil ,31, Czechoslovakia,1962
+Mexico ,31, Czechoslovakia,1962
+Czechoslovakia ,10, Hungary,1962
+Brazil ,21, Spain,1962
+Brazil ,00, Czechoslovakia,1962
+Uruguay ,21, Colombia,1962
+Spain ,10, Mexico,1962
+Soviet Union ,20, Yugoslavia,1962
+Yugoslavia ,31, Uruguay,1962
+Soviet Union ,44, Colombia,1962
+Yugoslavia ,50, Colombia,1962
+Chile ,31, Switzerland,1962
+Soviet Union ,21, Uruguay,1962
+Chile ,20, Italy,1962
+West Germany ,21, Switzerland,1962
+West Germany ,20, Chile,1962
+Italy ,30, Switzerland,1962
+Brazil ,20, Mexico,1962
+Czechoslovakia ,10, Spain,1962
+West Germany ,00, Italy,1962
+North Korea ,10, Italy,1966
+England ,42, West Germany,1966
+Italy ,20, Chile,1966
+Chile ,11, North Korea,1966
+Soviet Union ,10, Italy,1966
+Soviet Union ,21, Chile,1966
+Hungary ,31, Bulgaria,1966
+West Germany ,40, Uruguay,1966
+Soviet Union ,21, Hungary,1966
+Portugal ,53, North Korea,1966
+West Germany ,21, Soviet Union,1966
+England ,21, Portugal,1966
+Portugal ,21, Soviet Union,1966
+England ,10, Argentina,1966
+Portugal ,31, Brazil,1966
+Soviet Union ,30, North Korea,1966
+Hungary ,31, Brazil,1966
+Portugal ,30, Bulgaria,1966
+England ,00, Uruguay,1966
+France ,11, Mexico,1966
+Uruguay ,21, France,1966
+England ,20, Mexico,1966
+Mexico ,00, Uruguay,1966
+West Germany ,50, Switzerland,1966
+England ,20, France,1966
+Spain ,21, Switzerland,1966
+Argentina ,00, West Germany,1966
+Argentina ,20, Switzerland,1966
+West Germany ,21, Spain,1966
+Brazil ,20, Bulgaria,1966
+Portugal ,31, Hungary,1966
+Argentina ,21, Spain,1966
+Italy ,43, West Germany,1970
+Brazil ,41, Italy,1970
+Uruguay ,01, West Germany,1970
+Uruguay ,13, Brazil,1970
+West Germany ,32, England,1970
+Brazil ,42, Peru,1970
+Italy ,41, Mexico,1970
+Soviet Union ,01, Uruguay,1970
+Brazil ,01, Poland,1974
+Netherlands ,12, West Germany,1974
+Brazil ,21, Italy,1978
+Argentina ,31, Netherlands,1978
+Italy ,31, West Germany,1982
+Poland ,32, France,1982
+Poland ,02, Italy,1982
+West Germany ,33, France,1982
+West Germany ,00, Mexico,1986
+Belgium ,24, France,1986
+Argentina ,20, Belgium,1986
+France ,02, West Germany,1986
+Argentina ,32, West Germany,1986
+Spain ,11, Belgium,1986
+Argentina ,21, England,1986
+Brazil ,11, France,1986
+Argentina ,10, Uruguay,1986
+England ,30, Paraguay,1986
+Morocco ,01, West Germany,1986
+Italy ,02, France,1986
+Brazil ,40, Poland,1986
+Soviet Union ,34, Belgium,1986
+Mexico ,20, Bulgaria,1986
+Denmark ,15, Spain,1986
+West Germany ,10, Argentina,1990
+Italy ,21, England,1990
+West Germany ,11, England,1990
+Argentina ,11, Italy,1990
+Cameroon ,23, England,1990
+Czechoslovakia ,01, West Germany,1990
+Republic of Ireland ,01, Italy,1990
+Argentina ,00, Yugoslavia,1990
+England ,10, Belgium,1990
+Italy ,20, Uruguay,1990
+Republic of Ireland ,00, Romania,1990
+West Germany ,21, Netherlands,1990
+Brazil ,01, Argentina,1990
+Czechoslovakia ,41, Costa Rica,1990
+Cameroon ,21, Colombia,1990
+Spain ,12, Yugoslavia,1990
+Netherlands ,23, Brazil,1994
+Brazil ,00, Italy,1994
+Sweden ,40, Bulgaria,1994
+Sweden ,01, Brazil,1994
+Bulgaria ,12, Italy,1994
+Bulgaria ,21, Germany,1994
+Italy ,21, Spain,1994
+Romania ,22, Sweden,1994
+Nigeria ,12, Italy,1994
+Brazil ,10, United States,1994
+Netherlands ,20, Republic of Ireland,1994
+Mexico ,11, Bulgaria,1994
+Romania ,32, Argentina,1994
+Saudi Arabia ,13, Sweden,1994
+Spain ,30, Switzerland,1994
+Germany ,32, Belgium,1994
+Netherlands ,12, Croatia,1998
+France ,21, Croatia,1998
+Brazil ,11, Netherlands,1998
+Germany ,03, Croatia,1998
+Netherlands ,21, Argentina,1998
+Brazil ,32, Denmark,1998
+Italy ,00, France,1998
+Brazil ,03, France,1998
+Romania ,01, Croatia,1998
+Netherlands ,21, FR Yugoslavia,1998
+Germany ,21, Mexico,1998
+Nigeria ,14, Denmark,1998
+France ,10, Paraguay,1998
+Brazil ,41, Chile,1998
+Italy ,10, Norway,1998
+Argentina ,22, England,1998
+Germany ,02, Brazil,2002
+South Korea ,23, Turkey,2002
+Brazil ,10, Turkey,2002
+Germany ,10, South Korea,2002
+Senegal ,01, Turkey,2002
+Spain ,00, South Korea,2002
+Germany ,10, United States,2002
+England ,12, Brazil,2002
+South Korea ,21, Italy,2002
+Brazil ,20, Belgium,2002
+Mexico ,02, United States,2002
+Spain ,11, Republic of Ireland,2002
+Sweden ,12, Senegal,2002
+Denmark ,03, England,2002
+Germany ,10, Paraguay,2002
+Japan ,01, Turkey,2002
+Italy ,30, Ukraine,2006
+Italy ,11, France,2006
+Germany ,31, Portugal,2006
+Portugal ,01, France,2006
+Germany ,02, Italy,2006
+England ,00, Portugal,2006
+Germany ,11, Argentina,2006
+Brazil ,01, France,2006
+Brazil ,30, Ghana,2006
+Switzerland ,00, Ukraine,2006
+Italy ,10, Australia,2006
+Spain ,13, France,2006
+Portugal ,10, Netherlands,2006
+England ,10, Ecuador,2006
+Argentina ,21, Mexico,2006
+Germany ,20, Sweden,2006
+Netherlands ,01, Spain,2010
+Uruguay ,23, Germany,2010
+Germany ,01, Spain,2010
+Uruguay ,23, Netherlands,2010
+Paraguay ,01, Spain,2010
+Uruguay ,11, Ghana,2010
+Netherlands ,21, Brazil,2010
+Argentina ,04, Germany,2010
+Paraguay ,00, Japan,2010
+Brazil ,30, Chile,2010
+Netherlands ,21, Slovakia,2010
+Argentina ,31, Mexico,2010
+Germany ,41, England,2010
+United States ,12, Ghana,2010
+Uruguay ,21, South Korea,2010
+Spain ,10, Portugal,2010
+South Korea ,24, Algeria,2014
+Belgium ,10, Russia,2014
+Russia ,11, South Korea,2014
+Belgium ,21, Algeria,2014
+Portugal ,21, Ghana,2014
+United States ,01, Germany,2014
+Ghana ,12, United States,2014
+Germany ,22, Ghana,2014
+Nigeria ,23, Argentina,2014
+Germany ,40, Portugal,2014
+Bosnia and Herzegovina ,31, Iran,2014
+South Korea ,01, Belgium,2014
+United States ,22, Portugal,2014
+Algeria ,11, Russia,2014
+Germany ,10, Argentina,2014
+Colombia ,20, Uruguay,2014
+Netherlands ,21, Mexico,2014
+Costa Rica ,11, Greece,2014
+France ,20, Nigeria,2014
+Germany ,21, Algeria,2014
+Argentina ,10, Switzerland,2014
+Belgium ,21, United States,2014
+France ,01, Germany,2014
+Brazil ,21, Colombia,2014
+Argentina ,10, Belgium,2014
+Brazil ,17, Germany,2014
+Netherlands ,00, Argentina,2014
+Brazil ,03, Netherlands,2014
+Nigeria ,10, Bosnia and Herzegovina,2014
+Brazil ,11, Chile,2014
+Argentina ,10, Iran,2014
+Netherlands ,00, Costa Rica,2014
+Argentina ,21, Bosnia and Herzegovina,2014
+Brazil ,31, Croatia,2014
+Mexico ,10, Cameroon,2014
+Brazil ,00, Mexico,2014
+Cameroon ,04, Croatia,2014
+Cameroon ,14, Brazil,2014
+Croatia ,13, Mexico,2014
+Spain ,15, Netherlands,2014
+Chile ,31, Australia,2014
+Iran ,00, Nigeria,2014
+Spain ,02, Chile,2014
+Australia ,03, Spain,2014
+Netherlands ,20, Chile,2014
+Colombia ,30, Greece,2014
+Ivory Coast ,21, Japan,2014
+Colombia ,21, Ivory Coast,2014
+Australia ,23, Netherlands,2014
+Japan ,14, Colombia,2014
+Japan ,00, Greece,2014
+Ecuador ,00, France,2014
+Honduras ,03, Switzerland,2014
+Honduras ,12, Ecuador,2014
+France ,30, Honduras,2014
+Switzerland ,21, Ecuador,2014
+Switzerland ,25, France,2014
+Italy ,01, Uruguay,2014
+Italy ,01, Costa Rica,2014
+Uruguay ,21, England,2014
+England ,12, Italy,2014
+Uruguay ,13, Costa Rica,2014
+Greece ,21, Ivory Coast,2014
+Costa Rica ,00, England,2014
+Colombia ,12, Japan,2018
+Japan ,01, Poland,2018
+Poland ,03, Colombia,2018
+Japan ,22, Senegal,2018
+Poland ,12, Senegal,2018
+Panama ,12, Tunisia,2018
+South Korea ,20, Germany,2018
+England ,61, Panama,2018
+Belgium ,52, Tunisia,2018
+Tunisia ,12, England,2018
+Belgium ,30, Panama,2018
+Mexico ,03, Sweden,2018
+England ,01, Belgium,2018
+France ,43, Argentina,2018
+France ,42, Croatia,2018
+Spain ,11, Russia,2018
+Croatia ,11, Denmark,2018
+Brazil ,20, Mexico,2018
+Belgium ,32, Japan,2018
+Sweden ,10, Switzerland,2018
+Colombia ,11, England,2018
+Uruguay ,02, France,2018
+Brazil ,12, Belgium,2018
+Sweden ,02, England,2018
+Russia ,22, Croatia,2018
+France ,10, Belgium,2018
+Croatia ,21, England,2018
+Belgium ,20, England,2018
+Germany ,21, Sweden,2018
+Uruguay ,21, Portugal,2018
+South Korea ,12, Mexico,2018
+Senegal ,01, Colombia,2018
+Germany ,01, Mexico,2018
+Russia ,50, Saudi Arabia,2018
+Egypt ,01, Uruguay,2018
+Russia ,31, Egypt,2018
+Uruguay ,10, Saudi Arabia,2018
+Uruguay ,30, Russia,2018
+Saudi Arabia ,21, Egypt,2018
+Morocco ,01, Iran,2018
+Portugal ,33, Spain,2018
+Sweden ,10, South Korea,2018
+Iran ,01, Spain,2018
+Iran ,11, Portugal,2018
+Spain ,22, Morocco,2018
+France ,21, Australia,2018
+Peru ,01, Denmark,2018
+Denmark ,11, Australia,2018
+Portugal ,10, Morocco,2018
+Denmark ,00, France,2018
+France ,10, Peru,2018
+Switzerland ,22, Costa Rica,2018
+Serbia ,02, Brazil,2018
+Serbia ,12, Switzerland,2018
+Brazil ,11, Switzerland,2018
+Costa Rica ,01, Serbia,2018
+Brazil ,20, Costa Rica,2018
+Nigeria ,12, Argentina,2018
+Nigeria ,20, Iceland,2018
+Argentina ,03, Croatia,2018
+Croatia ,20, Nigeria,2018
+Argentina ,11, Iceland,2018
+Australia ,02, Peru,2018
+Iceland ,12, Croatia,2018
+Cameroon,48,Brazil,2022
+Portugal,32,Uruguay,2022
+South Korea,30,Ghana,2022
+Portugal,15,Ghana,2022
+Uruguay,14,South Korea,2022
+Serbia,47,Switzerland,2022
+Croatia,27,Canada,2022
+Cameroon,29,Serbia,2022
+Brazil,16,Serbia,2022
+Switzerland,13,Cameroon,2022
+Canada,42,Morocco,2022
+Croatia,41,Belgium,2022
+Brazil,31,Switzerland,2022
+Ghana,45,Uruguay,2022
+Winners Match 59,62,Winners Match 60,2022
+Winners Group A,49,Runners-up Group B,2022
+Winners Group C,50,Runners-up Group D,2022
+Winners Group D,52,Runners-up Group C,2022
+Winners Group B,51,Runners-up Group A,2022
+Winners Group E,53,Runners-up Group F,2022
+Winners Group G,54,Runners-up Group H,2022
+Winners Group F,55,Runners-up Group E,2022
+Winners Group H,56,Runners-up Group G,2022
+Winners Match 53,58,Winners Match 54,2022
+Winners Match 49,57,Winners Match 50,2022
+Winners Match 55,60,Winners Match 56,2022
+Winners Match 51,59,Winners Match 52,2022
+Winners Match 57,61,Winners Match 58,2022
+Belgium,26,Morocco,2022
+South Korea,46,Portugal,2022
+Belgium,9,Canada,2022
+Argentina,24,Mexico,2022
+Costa Rica,44,Germany,2022
+Losers Match 61,63,Losers Match 62,2022
+Qatar,1,Ecuador,2022
+Senegal,2,Netherlands,2022
+Qatar,18,Senegal,2022
+Netherlands,19,Ecuador,2022
+Ecuador,35,Senegal,2022
+Netherlands,36,Qatar,2022
+England,3,Iran,2022
+United States,4,Wales,2022
+Wales,17,Iran,2022
+England,20,United States,2022
+Wales,33,England,2022
+Iran,34,United States,2022
+Argentina,8,Saudi Arabia,2022
+Mexico,7,Poland,2022
+Poland,22,Saudi Arabia,2022
+Poland,39,Argentina,2022
+Saudi Arabia,40,Mexico,2022
+Denmark,6,Tunisia,2022
+France,5,Australia,2022
+Tunisia,21,Australia,2022
+France,23,Denmark,2022
+Australia,37,Denmark,2022
+Tunisia,38,France,2022
+Germany,11,Japan,2022
+Spain,10,Costa Rica,2022
+Japan,25,Costa Rica,2022
+Spain,28,Germany,2022
+Japan,43,Spain,2022
+Morocco,12,Croatia,2022
+Winners Match 61,64,Winners Match 62,2022
